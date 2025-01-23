@@ -12,7 +12,7 @@ assoaicated with a word in the lists. The option to either save the password loc
 or export it to LastPass is given, and entropy is calculated with L*log2(C).
 
 Author: Kevin Weiss 
-Contact: kevin.weiss1@gwu.edu
+Contact: kjweiss1995@gmail.com
 '''
 
 
